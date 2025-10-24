@@ -1,0 +1,4 @@
+TP1
+
+Q7: 
+En se basant sur la définition de la théorie des mesures, une mesure n'est valide que si les relations entre les valeurs qu'elle produit reflètent des relations réelles entre entités mesurées. Cependant, les métriques d'Halstead sont difficiles à justifier principalement en raison du fait que le choix des opérandes et des opérateurs est arbitraire, et diffère selon l'opinion. Elles ne respectent donc pas la théorie des mesures.
